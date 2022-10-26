@@ -51,7 +51,7 @@ PACKAGE_LIST=(
     "libogg"
     "libvorbis" # Install after libogg
     "libopus"
-    "libsnd"
+#    "libsnd"
     "libtar"
     "cfitsio"
 )
